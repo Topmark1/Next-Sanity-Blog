@@ -9,4 +9,12 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-}
+} 
+
+// module.exports = {
+//   content: [ ],
+//   theme: {
+//     extend: {},
+//   },
+//   plugins: [],
+// } 
