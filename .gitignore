@@ -6,7 +6,8 @@
 .pnp.js
 
 sanity-blog/node_modules
-
+package-lock.json
+sanity-blog
 # testing
 /coverage
 
