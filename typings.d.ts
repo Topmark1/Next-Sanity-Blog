@@ -21,7 +21,7 @@ body: [
     children:{[text:string,]},
 children:{[text:string,]},
 children:{[text:string,]},
-    children:{[text:string]}
+    children:{[text:string]},]
 }
 
 export interface Comment{
